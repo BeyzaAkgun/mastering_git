@@ -1,5 +1,5 @@
-## Helloooo everyyone ı am adding this from me
+## Welcome Git
 
 -Yoo,Johnny Here!
-
-# I am adding this from feature-branch
+-This is coming from dev-adrian
+- I am adding this from feature-branch
